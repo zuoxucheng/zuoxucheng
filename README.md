@@ -2,6 +2,6 @@
 
 東京大学大学院社会心理学修士課程1年
 
-情報技術が社会・コミュニティおよび集合行動に与える影響について研究しています。研究以外、FOSS（free and open source software）、科学コミュニケーションやデータ可視化などにも関心を持ち、暇なときは苔の写真を撮影したり、GNU Emacsの設定をいじったりしています。
+情報技術が社会・コミュニティおよび集合行動に与える影響について研究しています。研究のほか、FOSS（Free and Open Source Software）、科学コミュニケーション、データの可視化などにも関心があります。趣味は苔の写真を撮ることと、GNU Emacsの設定をいじることです。
 
-I am a first year graduate school student at Department of Social Psychology, Graduate School of Humanities and Scoiology, the University of Tokyo. My research topic is information technology's influence on human society and collective behavior. Beside research, I am interested in free and open source software (FOSS), science communication, and scientific visualization. In my free time, I take photos of mosses and configure GNU Emacs for fun.
+I am a first-year graduate student in the Department of Social Psychology at the Graduate School of Humanities and Sociology, the University of Tokyo. My research explores the impact of information technology on society and collective behavior. Besides my research, I am interested in Free and Open Source Software (FOSS), science communication, and data visualization. In my spare time, I enjoy photographing moss and configuring GNU Emacs.
